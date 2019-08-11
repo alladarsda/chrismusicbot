@@ -2,4 +2,4 @@ exports.TOKEN = 'TOKEN';
 
 exports.PREFIX = 'PREFIX';
 
-exports.GOOGLE_API_KEY = 'GOOGLE';
+exports.GOOGLE_API_KEY = 'GOOGLE_API_KEY';
