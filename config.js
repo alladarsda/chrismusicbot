@@ -1,5 +1,5 @@
-exports.TOKEN = 'TOKEN';
+const token = process.env.token;
 
-exports.PREFIX = 'PREFIX';
+const prefix = process.env.prefix;
 
-exports.GOOGLE_API_KEY = 'GOOGLE_API_KEY';
+const google_api_key = process.env.google_api_key;
