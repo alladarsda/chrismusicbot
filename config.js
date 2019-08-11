@@ -1,0 +1,5 @@
+exports.TOKEN = 'BOT_TOKEN';
+
+exports.PREFIX = 'PREFIX_HERE';
+
+exports.GOOGLE_API_KEY = 'GOOGLE_API_HERE';
